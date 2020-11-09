@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.803,=C:\Users\Ataberk\Desktop\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.05.16 23:43:28.630,=C:\Users\Ataberk\Desktop\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.05.16 23:44:20.494,D:\delphi mobile\MobileBurc\gereksiz.pas=C:\Users\Ataberk\Desktop\Projects\Unit1.pas</Transaction>
+    <Transaction>2020.05.16 23:44:20.494,D:\delphi mobile\MobileBurc\gereksiz.fmx=C:\Users\Ataberk\Desktop\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020.05.16 23:44:38.659,D:\delphi mobile\MobileBurc\BurclarveYorumlar.dproj=C:\Users\Ataberk\Desktop\Projects\Project1.dproj</Transaction>
+    <Transaction>2020.05.16 23:45:02.418,=D:\delphi mobile\MobileBurc\burclarfm.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="d435ca2f"/>
+	</ActiveMobileDevice>  <BT_BuildType>AppStore</BT_BuildType>
+</BorlandProject>
